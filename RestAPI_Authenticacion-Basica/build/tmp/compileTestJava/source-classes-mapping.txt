@@ -1,0 +1,34 @@
+util/GetProperties.java
+ util.GetProperties
+factoryRequest/RequestGET.java
+ factoryRequest.RequestGET
+testClean/CRUDProjectTest.java
+ testClean.CRUDProjectTest
+basicTest/RestAssureBody2.java
+ basicTest.RestAssureBody2
+factoryRequest/RequestInformation.java
+ factoryRequest.RequestInformation
+basicTest/RestAssuredSchemaValidation.java
+ basicTest.RestAssuredSchemaValidation
+factoryRequest/RequestPUT.java
+ factoryRequest.RequestPUT
+factoryRequest/FactoryRequest.java
+ factoryRequest.FactoryRequest
+factoryRequest/IRequest.java
+ factoryRequest.IRequest
+basicTest/CRUDProjectTest.java
+ basicTest.CRUDProjectTest
+factoryRequest/RequestPOST.java
+ factoryRequest.RequestPOST
+basicTest/RestAssureBasic.java
+ basicTest.RestAssureBasic
+util/ConfigEnv.java
+ util.ConfigEnv
+basicTest/RestAssuredExtract.java
+ basicTest.RestAssuredExtract
+factoryRequest/RequestDELETE.java
+ factoryRequest.RequestDELETE
+util/ConfigAPI.java
+ util.ConfigAPI
+basicTest/RestAssureBody.java
+ basicTest.RestAssureBody

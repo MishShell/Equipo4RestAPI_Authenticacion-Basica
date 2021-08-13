@@ -1,0 +1,38 @@
+
+********
+ ConfigEnv.host: http://todo.ly
+!ConfigEnv.user: ucb@ucb2021.com
+ConfigEnv.password: 12345
+
+********
+Request method:	POST
+/Request URI:	http://todo.ly/api/projects.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+<Headers:		Authorization=Basic dWNiQHVjYjIwMjEuY29tOjEyMzQ1
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{"Content":"Mishi","Icon":4}
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=zhvipbjqf21bsd0ng33jt3lz; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Wed, 11 Aug 2021 02:36:15 GMT
+Content-Length: 61
+
+{
+-    "ErrorMessage": "Account doesn't exist",
+    "ErrorCode": 105
+}
